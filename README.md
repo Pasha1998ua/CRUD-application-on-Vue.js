@@ -1,6 +1,4 @@
-# testtask
-
-> a vue.js project
+# CRUD-application-on-Vue.js
 
 ## Build Setup
 
@@ -15,7 +13,7 @@ npm run dev
 npm run build
 ```
 
-## JSON Import
+## JSON Import Example
 
 [{"name":"Name","surname":"Surname","phone":"(000)000-00-00","email":"somemail@mail.com"},{"name":"Nametwo","surname":"Surnametwo","phone":"(000)000-00-00","email":"somemail@mail.com"},{"name":"Namethree","surname":"Surnamethree","phone":"(000)000-00-00","email":"somemail@mail.com"}]
 
